@@ -5,4 +5,6 @@ class MyClass:
 
     def greet(self):
         return f"Hello, {self.name}!"
+    def farewell(self):
+        return f"Goodbye, {self.name}!"
     
