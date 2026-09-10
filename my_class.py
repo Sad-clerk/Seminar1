@@ -11,3 +11,5 @@ class MyClass:
         return 1
     def hello_Ben(self):
         return "Hello, Ben"
+    def Heppo(self):
+        return 2
