@@ -9,4 +9,5 @@ class MyClass:
         return f"Goodbye, {self.name}!"
     def Hell(self):
         return 1
-        
+    def hello_Ben(self):
+        return "Hello, Ben"
