@@ -7,4 +7,6 @@ class MyClass:
         return f"Hello, {self.name}!"
     def farewell(self):
         return f"Goodbye, {self.name}!"
-    
+    def Hell(self):
+        return 1
+        
